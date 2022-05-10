@@ -1,0 +1,31 @@
+My soul your beat
+
+G#	F#	E	G#	B	G#	B
+crtlH 	crtlG 	ctrlC 	crtlH 	crtlM 	crtlH 	crtlM
+
+G#	F#	E	G#	B	G#	B	C#6	B
+crtlH 	crtlG	ctrlC 	crtlH 	crtlM 	crtlH 	crtlM 	crtl7 	crtlM	
+
+G#	F#	E	F#	G#
+crtlH 	crtlG 	ctrlC	crtlG	crtlH
+
+G#	F#	E	F#	G#	B	F#
+crtlH 	crtlG 	ctrlC	crtlG	crtlH	ctrlM	ctrlG
+
+G#	F#	F#	E	G#	B	G#	B
+crtlH 	crtlG 	crtlG	ctrlC 	crtlH 	crtlM 	crtlH 	crtlM
+
+G#	F#	F#	E	G#	B	G#	B	C#6	B	
+crtlH 	crtlG	crtlG	ctrlC 	crtlH 	crtlM 	crtlH 	crtlM 	crtl7 	crtlM	
+
+B	D#(2)	B	B	F#	B
+crtlM	ctrl8	crtlM	crtlM	crtlG	crtlM
+
+G#	F#	E	C#	B4	
+crtlH	crtlG	ctrlC	crtlS	]
+
+G#	F#	E	C#	B4	
+crtlH	crtlG	ctrlC	crtlS	]
+
+G#	F#	E	B4	C#	
+crtlH	crtlG	ctrlC	]	ctrlS
